@@ -1,2 +1,2 @@
 # mini-shop
-this is a project about a shop online where people can shopping
+This is a project about an online shop where people can shop!
